@@ -8,6 +8,4 @@ This is the fourth line.
 
 Adding a fifth line.
 
-Adding a sixth line........
-
-Seventh?
+We'll stop after fifth line. This is final!
